@@ -1,3 +1,4 @@
+# Alim Kouchiboyev 2022.04.20 TATU Kompyuter injineringi
 from datetime import datetime
 from sql_connection import get_sql_connection
 
